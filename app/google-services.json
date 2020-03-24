@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214231525241",
+    "firebase_url": "https://uyegirisliretrofit.firebaseio.com",
+    "project_id": "uyegirisliretrofit",
+    "storage_bucket": "uyegirisliretrofit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214231525241:android:86131c91fa7580389bf1a8",
+        "android_client_info": {
+          "package_name": "com.example.uyegirisliretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214231525241-cs13m2uqu6u1g5v1eu8qiqr6utdmnj16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uyegirisliretrofit",
+            "certificate_hash": "0a0ad0377cc8b373cdc237a210ffe3bf4f26a861"
+          }
+        },
+        {
+          "client_id": "214231525241-2ef8qdr18ume8n6bm508j6ompeqtok8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7HMYJcnjBlIUfIogYEaAfv9nwGoVpiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214231525241-2ef8qdr18ume8n6bm508j6ompeqtok8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
